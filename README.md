@@ -127,6 +127,12 @@ This repository includes:
 - Domain-driven modeling and layered architecture  
 
 ---
+## Collaboration Note
+This project was completed as part of a team-based academic system design effort.
+My contributions focused on backend architecture, relational database modeling,
+API workflow design, and transactional rules.
+
+---
 
 ## Disclaimer
 This project represents a backend system design and modeling exercise created for academic purposes. It is not a production-ready deployment but demonstrates backend architectural reasoning and data-driven design.
